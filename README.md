@@ -1,4 +1,3 @@
-# guessNumber
 
 # Guess the Number Game - Lesson Plan
 
