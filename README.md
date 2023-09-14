@@ -1,6 +1,9 @@
 
 # Guess the Number Game - Lesson Plan
 
+## Bro Code Video
+https://youtu.be/jc7TBgMS_kw?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT
+ 
 ## Objective
 The objective of this lesson is to introduce children aged 10 and under to basic programming concepts and logical thinking using a simple guessing game.
 
